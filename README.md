@@ -1,4 +1,3 @@
-Conducting an exploratory data analysis in a dataset of all Simpsons episodes. Building several visualizations and getting statistical insights.
 # The Simpsons dataset: Exploratory data analysis
 This project presents an exploratory data analysis of The Simpsons dataset, that is one of the most iconic and my favourite television series.
 
