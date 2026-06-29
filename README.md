@@ -27,7 +27,7 @@ Interesting fact is that favourite episodes of USA viewers are not found in gene
 
 ### Correlation heatmap
 ![main](images/correlation_heatmap.png)
-![main](images/correlation_explained.png)
+![main](images/correlations_explained.png)
 
 ### Top directors of cool episodes
 ![main](images/top_directors.png)
